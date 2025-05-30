@@ -59,11 +59,3 @@ This end-to-end data project explores global space missions through data enginee
 - **SQL Server** – Data warehouse schema, analytics queries  
 - **Power BI** – Interactive dashboard design
   
----
-
-## 🖼️ Screenshots 
-
-```
-![Mission Overview](Dashboard-Screenshots/Mission Overview.png)
-![Time Analysis](Dashboard-Screenshots/Time Analysis.png)
-```
