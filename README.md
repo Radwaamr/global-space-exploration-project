@@ -33,7 +33,7 @@ This end-to-end data project explores global space missions through data enginee
    - Total missions, average success rate, mission type by country  
 
 2. **Time Analysis**  
-   - Mission count by year/decade, budget trends  
+   - Mission count by decade, budget trends  
 
 3. **Technology & Satellite Type**  
    - Success rate by technology, duration by satellite type  
